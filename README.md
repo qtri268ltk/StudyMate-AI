@@ -2,7 +2,7 @@
 Trợ lý Đọc hiểu, Tóm tắt và Khảo thí thông minh
 
 1. Giới thiệu StudyMate AI
-**StudyMate AI** là một ứng dụng được thiết kế nhằm hỗ trợ người học đọc hiểu tài liệu và ôn luyện kiến thức hiệu quả[cite: 2]. Ứng dụng ứng dụng công nghệ AI (dựa trên cơ chế RAG) với các chức năng nổi bật sau:
+**StudyMate AI** là một ứng dụng được thiết kế nhằm hỗ trợ người học đọc hiểu tài liệu và ôn luyện kiến thức hiệu quả. Ứng dụng ứng dụng công nghệ AI (dựa trên cơ chế RAG) với các chức năng nổi bật sau:
 * Tải lên các tài liệu học tập dưới định dạng PDF.
 * Tự động tạo bản tóm tắt cốt lõi từ tài liệu gốc.
 * Hỗ trợ hỏi đáp thông tin trực tiếp dựa trên nội dung tài liệu.
